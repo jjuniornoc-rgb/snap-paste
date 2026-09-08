@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+  <rect width="48" height="48" rx="12" fill="#141418"/>
+  <rect x="1" y="1" width="46" height="46" rx="11" stroke="#282832" stroke-width="2"/>
+  <!-- Keycap base -->
+  <rect x="10" y="10" width="28" height="28" rx="8" fill="#1e1e26" stroke="#f59e0b" stroke-width="1.5"/>
+  <!-- V glyph in amber glow -->
+  <path d="M17 19L24 31L31 19" stroke="#f59e0b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
